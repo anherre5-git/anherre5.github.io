@@ -40,12 +40,12 @@ Nonprofit Website Revamp & Donor Platform Migration | BEARS Etc.
 - Practiced working with datasets related to business operations, cybersecurity, and energy demand analysis
 
 ### Technical Skills
-Languages: Python, SQL, Java, HTML, CSS
-Data Analytics: Power BI, Tableau, Excel
-Database Management: MySQL, SQL Server
-Other Skills: Data Visualization, Systems Analysis, Team Collaboration, Technical Documentation, Problem Solving
+- Languages: Python, SQL, Java, HTML, CSS
+- Data Analytics: Power BI, Tableau, Excel
+- Database Management: MySQL, SQL Server
+- Other Skills: Data Visualization, Systems Analysis, Team Collaboration, Technical Documentation, Problem Solving
 
 ### Current Goals
-Expand portfolio projects in data analytics and cloud technologies
-Pursue opportunities in data analytics, business intelligence, cybersecurity, or cloud architecture
-Continue developing technical and professional skills through hands on projects and certifications
+- Expand portfolio projects in data analytics and cloud technologies
+- Pursue opportunities in data analytics, business intelligence, cybersecurity, or cloud architecture
+- Continue developing technical and professional skills through hands on projects and certifications

@@ -2,7 +2,7 @@
 
 ### About Me
 
-Recent graduate from University of Houston with a B.S. in Management Information Systems interested in data analytics, business intelligence, cloud technologies, and cybersecurity. Passionate about using technology and data driven solutions to improve business operations, user experience, and decision making. Currently building technical projects involving SQL, Python, Power BI, Tableau, and web development while expanding skills in analytics and systems design.
+Recent graduate from University of Houston with a B.S. in Management Information Systems and a strong interest in data analytics, business intelligence, and emerging technologies. I enjoy finding ways technology can solve real world problems and improve how organizations operate and make decisions. I’m especially interested in how data analytics and artificial intelligence can be used to support renewable energy, environmental sustainability, and future focused innovations. Currently, I’m building projects involving SQL, Python, Power BI, and Java while continuing to grow my technical and analytical skills.
 
 ### Education
 - B.S. Management Information Systems | The University of Houston (Main) | May 2026
@@ -40,7 +40,7 @@ Nonprofit Website Revamp & Donor Platform Migration | BEARS Etc.
 - Practiced working with datasets related to business operations, cybersecurity, and energy demand analysis
 
 ### Technical Skills
-- Languages: Python, SQL, Java, HTML, CSS
+- Languages: Python, R, SQL, Java, HTML, CSS
 - Data Analytics: Power BI, Tableau, Excel
 - Database Management: MySQL, SQL Server
 - Other Skills: Data Visualization, Systems Analysis, Team Collaboration, Technical Documentation, Problem Solving
